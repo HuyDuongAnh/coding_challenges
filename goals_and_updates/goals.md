@@ -26,3 +26,39 @@
     5.  Going to on-site job search locally.
     6.  Personally reach out to job recruiter after applying for a position 
 
+## 10/20/2023:
+
+Today schedule:
+1. 9:00 am - 10:30 am: Research upon what the Church of Jesus Christ of Latter Day Saints offers
+2. 10:30 am - 12:00 pm: Apply and message recruiters on LinkedIn 
+3. 12:00 pm - 1:00 pm: Lunch
+4. 2:30 pm - 5:00 pm: Solve one coding challenge in C and one in Python
+
+
+Strategy:
+1. Apply to all the firmware engineer positions in Sacramento first
+2. Then apply to all the IT starting out role in Sacramento
+3. Then apply to all the remote position 
+
+Tasks completed:
+1. [X] Set up meetings in the calendar with the LDS church next week
+2. [X] Looking for jobs on Indeed (having a thought that I should
+automatically apply for firmware position)
+
+## 10/23/2023:
+
+Today schedule:
+1. 10:30 am - 12:00 pm: Applied to many positions at Lockheed Martin
+2. 2:00 pm - 4:00 pm: Solve one coding challenge in C and one in Python
+3. 4:00 pm - 5:00 pm: Look into IT or cyber security certification 
+
+Tasks completed:
+1. [X] Applied to 3 positions at Lockheed Martin
+2. [X] The gcd question was unsolvable in C
+3. [X] Best way to learn Python: Solve Python Leetcode question by Googling Python function
+
+## 10/24/2023:
+
+Today schedule:
+1. 10:00 am - 11:00 am: Applying to State and CAjobs website
+2. 3:00 pm - 5:00 pm: Solve Python Leetcode questions 
