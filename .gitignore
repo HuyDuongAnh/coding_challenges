@@ -1,3 +1,7 @@
+# Personal folders
+/personal_notes/*
+/goals_and_updates/*
+
 # Prerequisites
 *.d
 
